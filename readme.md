@@ -52,7 +52,7 @@ Example with [netlify.md](https://github.com/NEK-RA/freeStuffDev/blob/main/conte
 date = "2021-06-15T00:00:00+00:00"
 tags = ["hosting", "hosting-dynamic", "hosting-static", "serverless"]
 title="Netlify"
-link = "https://www.netlify.com/"
+link = "[pluscoloring](https://pluscoloring.com/search-Sonic-hedgehog.htm)"
 thumbnail = "https://res.cloudinary.com/wegoatdev/image/upload/v1623795952/freestuffdev/stuff/netlify.png"
 snippet="An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps"
 +++
